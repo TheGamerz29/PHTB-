@@ -4,6 +4,8 @@ Hack/Recover Wifi or Files Password using Bute-Force method. (Legal)
 # Notes
 Eventhough it's LEGAL to crack password using brute-force method.It's still ILLEGAL to crack password without the agreement with the owner.
 
+# When You download this file,there is no content,there is readme.txt.Download it from the link i have give to you.
+
 # PHTB have 6 modules,which is:
 # 1. Aircrack-ng
 # 2. Kraken
