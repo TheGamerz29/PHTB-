@@ -6,13 +6,14 @@ Eventhough it's LEGAL to crack password using brute-force method.It's still ILLE
 
 # When You download this file,there is no content,there is readme.txt.Download it from the link i have give to you.
 
-# PHTB have 6 modules,which is:
+# PHTB have 7 main modules,which is:
 # 1. Aircrack-ng
 # 2. Kraken
 # 3. Password Dictionary
 # 4. Router Scan
 # 5. Wifi Brute-Force by TUX
 # 6. LostMyPass
+# 7. Wifi passview
 
 # How to use
 # Aircrack-ng
@@ -51,3 +52,8 @@ To use dictionary attack,just copy the passlist.txt file from the password dicti
 LostMyPass is a website archived file password cracker.It is really fast at cracking password.
 # How to use?
 Open the batch file.Complete!
+
+# WiFi passview
+Wifi password recovery tool
+# How to use?
+Simply just launch the batch file.
