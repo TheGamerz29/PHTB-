@@ -65,5 +65,3 @@ Cain and Abel is multifunctional password recovery tool.
 I cannot explain how to use it because it's very complicated,however,You can still search in youtube
 about it.
 
-<a href="css/style.css">style.css</a>
-<a href="PHTB-">Download File</a>
