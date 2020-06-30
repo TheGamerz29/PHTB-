@@ -6,7 +6,7 @@ Eventhough it's LEGAL to crack password using brute-force method.It's still ILLE
 
 # When You download this file,there is no content,there is readme.txt.Download it from the link i have give to you.
 
-# PHTB have 8 main modules,which is:
+# PHTB have 9 main modules,which is:
 # 1. Aircrack-ng
 # 2. Kraken
 # 3. Password Dictionary
@@ -15,6 +15,7 @@ Eventhough it's LEGAL to crack password using brute-force method.It's still ILLE
 # 6. LostMyPass
 # 7. Wifi passview
 # 8. Cain And Abel
+# 9. Angry Zip
 
 # How to use
 # Aircrack-ng
@@ -64,4 +65,9 @@ Cain and Abel is multifunctional password recovery tool.
 # How to use?
 I cannot explain how to use it because it's very complicated,however,You can still search in youtube
 about it.
+
+# Angry Zip
+Angry Zip is a Zip Password recovery tool.It have almost the same personality as Kraken but it is a bit slower and only support one file type.
+# How to Use?
+Easily open Angry Zip then you will  already know.
 
