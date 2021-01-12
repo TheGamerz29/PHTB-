@@ -4,6 +4,10 @@ Hack/Recover Wifi or Files Password using Bute-Force method. (Legal)
 # Notes
 Eventhough it's LEGAL to crack password using brute-force method.It's still ILLEGAL to crack password without the agreement with the owner.
 
+<a href="https://github.com/TheGamerz29/PHTB-/releases/download/V1.36X/PHTB.V1.34.Release.Installer.zip" download="#PHTB">
+  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="PHTB" width="251" height="74">
+</a><br>
+
 # When You download this file,there is no content,there is readme.txt.Download it from the link i have give to you.
 
 # PHTB have 9 main modules,which is:
@@ -71,6 +75,3 @@ Angry Zip is a Zip Password recovery tool.It have almost the same personality as
 # How to Use?
 Easily open Angry Zip then you will  already know.
 
-<a href="https://github.com/TheGamerz29/PHTB-/releases/download/V1.36X/PHTB.V1.34.Release.Installer.zip" download="#PHTB">
-  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="PHTB" width="251" height="74">
-</a>
